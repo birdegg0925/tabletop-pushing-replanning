@@ -1,0 +1,24 @@
+{
+ "state": {
+  "plan_ms_mean": 18.977847929636482,
+  "plan_ms_p95": 19.636679170071147,
+  "observe_ms_mean": 0.004101025115232915,
+  "mode": "state",
+  "threads": 1,
+  "machine": "arm64",
+  "processor": "arm",
+  "system": "macOS-27.2.1-arm64-arm-64bit",
+  "units_per_plan": 2304
+ },
+ "pixels": {
+  "plan_ms_mean": 19.63811140303733,
+  "plan_ms_p95": 20.421547288424335,
+  "observe_ms_mean": 1.2435322278179228,
+  "mode": "pixels",
+  "threads": 1,
+  "machine": "arm64",
+  "processor": "arm",
+  "system": "macOS-27.2.1-arm64-arm-64bit",
+  "units_per_plan": 2304
+ }
+}

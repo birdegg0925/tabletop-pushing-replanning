@@ -1,0 +1,10 @@
+numpy==1.26.4
+gym-pusht==0.1.8
+gymnasium==1.0.0
+pymunk==6.11.1
+pygame==2.6.1
+opencv-python==4.10.0.84
+shapely==2.2.0
+torch==2.15.0
+matplotlib==3.8.4
+imageio==2.33.1
